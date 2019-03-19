@@ -1,0 +1,11 @@
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\obj\Debug\netcoreapp2.2\CloudVisionWithCSharp.csprojAssemblyReference.cache
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\obj\Debug\netcoreapp2.2\CloudVisionWithCSharp.csproj.CoreCompileInputs.cache
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\obj\Debug\netcoreapp2.2\CloudVisionWithCSharp.AssemblyInfoInputs.cache
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\obj\Debug\netcoreapp2.2\CloudVisionWithCSharp.AssemblyInfo.cs
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\bin\Debug\netcoreapp2.2\CloudVisionWithCSharp.deps.json
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\bin\Debug\netcoreapp2.2\CloudVisionWithCSharp.runtimeconfig.json
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\bin\Debug\netcoreapp2.2\CloudVisionWithCSharp.runtimeconfig.dev.json
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\bin\Debug\netcoreapp2.2\CloudVisionWithCSharp.dll
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\bin\Debug\netcoreapp2.2\CloudVisionWithCSharp.pdb
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\obj\Debug\netcoreapp2.2\CloudVisionWithCSharp.dll
+G:\meus_arquivos\projetos\CloudVisionWithCSharp\obj\Debug\netcoreapp2.2\CloudVisionWithCSharp.pdb
